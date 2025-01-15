@@ -1,7 +1,7 @@
 {
   "name": "ahj_sse-ws_server",
   "version": "1.0.0",
-  "description": "",
+  "description": "homeworks",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -17,5 +17,14 @@
     "cors": "^2.8.5",
     "express": "^4.21.2",
     "ws": "^8.18.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CoolPaK/ahj_sse-ws_server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CoolPaK/ahj_sse-ws_server/issues"
+  },
+  "homepage": "https://github.com/CoolPaK/ahj_sse-ws_server#readme"
 }
